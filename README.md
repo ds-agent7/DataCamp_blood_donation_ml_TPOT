@@ -1,4 +1,4 @@
-# DataCamp project: blood donation predict  by ml (using TPOT)
+# Datacamp project: blood donation predict  by ml (using TPOT)
 
 classification, predict, ml, TPOT
 
